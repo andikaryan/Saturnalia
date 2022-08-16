@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Saturnalia.github.io/static/css/main.7c8ff965.css",
+    "main.js": "/Saturnalia.github.io/static/js/main.6a73e162.js",
+    "index.html": "/Saturnalia.github.io/index.html",
+    "main.7c8ff965.css.map": "/Saturnalia.github.io/static/css/main.7c8ff965.css.map",
+    "main.6a73e162.js.map": "/Saturnalia.github.io/static/js/main.6a73e162.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8ff965.css",
+    "static/js/main.6a73e162.js"
+  ]
+}
